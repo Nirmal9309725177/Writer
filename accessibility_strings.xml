@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_description">Pastes the prepared voice text into the currently focused text field when requested.</string>
+</resources>
